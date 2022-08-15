@@ -3,7 +3,7 @@ package funcoes_matematicas;
 import java.util.Scanner;
 
 public class Bhaskara {
-    static float bhaskara (float a, float b, float c) { //Exercício 6
+    static float bhaskara (float a, float b, float c) { //Exercício 4
         Scanner input = new Scanner(System.in);
         System.out.println("Qual a raiz desejada?\n[1] Maior raiz \n[2] Menor raiz");
         int saida = input.nextInt();
