@@ -3,7 +3,7 @@ package funcoes_matematicas;
 import java.util.Scanner;
 
 public class VolumeEsfera {
-    static float volumeEsfera (float n) { //Exercício 7
+    static float volumeEsfera (float n) { //Exercício 5
         return (float) ((4/3) * Math.PI * Math.pow(n,3));
     }
 
