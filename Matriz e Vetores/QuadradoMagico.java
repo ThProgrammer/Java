@@ -18,7 +18,7 @@ public class QuadradoMagico {
         int check = 0; //Contador de verificações corretas
         boolean magico = false;
 
-        // ========== Criação de Varíaveis ==========
+        // ====================
 
         // ========== Processamento ==========
 
@@ -67,7 +67,7 @@ public class QuadradoMagico {
                  +1 que é uma verificação adicional*/
         }
 
-        // ========== Processamento ==========
+        // ====================
 
         // ========== Saída de dados ==========
         return magico;
